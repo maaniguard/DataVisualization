@@ -2,7 +2,7 @@
 
 A full-stack application for visualizing sales data, built with a .NET Core Clean Architecture backend and a React frontend.
 
-![Sales Dashboard](https://your-image-url.com)
+![Sales Dashboard](https://github.com/maaniguard/DataVisualization/blob/master/Screenshot%202025-03-10%20180137.png)
 
 ## Features
 
