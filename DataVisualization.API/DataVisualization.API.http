@@ -1,0 +1,6 @@
+@DataVisualization.API_HostAddress = http://localhost:5183
+
+GET {{DataVisualization.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
