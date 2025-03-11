@@ -25,7 +25,7 @@ A full-stack application for visualizing sales data, built with a .NET Core Clea
 - React 18
 - Recharts for data visualization
 - Axios for API communication
-- Tailwind CSS for styling
+- Material UI for styling
 
 ## Project Structure
 ```
